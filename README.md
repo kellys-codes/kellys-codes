@@ -9,8 +9,8 @@ I've got three pinned projects that show what that looks like in practice:
 - **ChurnIQ**: Survival analysis for time-to-churn prediction, C-Index of 0.9436
 
 Here is my tech stack 👩‍💻:
-**Languages:** Python, C, Java, SQL
-**Machine Learning:** PyTorch, TensorFlow, OpenCV, scikit-learn
-**LLMs & Retrieval:** LangChain, FAISS, HuggingFace
-**Data:** Pandas, NumPy
-**Tools:** Docker, Git, Jupyter
+- **Languages:** Python, C, Java, SQL
+- **Machine Learning:** PyTorch, TensorFlow, OpenCV, scikit-learn
+- **LLMs & Retrieval:** LangChain, FAISS, HuggingFace
+- **Data:** Pandas, NumPy
+- **Tools:** Docker, Git, Jupyter
