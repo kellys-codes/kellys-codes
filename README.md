@@ -11,6 +11,6 @@ Here are a few projects I've built:
 Here is my tech stack 👩‍💻:
 - **Languages:** Python, C, Java, SQL
 - **Machine Learning:** PyTorch, TensorFlow, OpenCV, scikit-learn
-- **LLMs & Retrieval:** LangChain, FAISS, HuggingFace
+- **LLMs & Retrieval:** LangChain, HuggingFace
 - **Data:** Pandas, NumPy
 - **Tools:** Docker, Git, Jupyter
